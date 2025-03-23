@@ -1,0 +1,4 @@
+00000002,1234,Adrian,Nowak,01.01.2000,pzdlazp@pl.edu,asdad,39-200,Racz,10,0
+00000005,1234,32131231,sdasda,01.01.2000,dasdasd,sadasdsa,dsada,sadas,dsa,0
+00000001,1234,Karol,Malinowski,01.01.2000,karmal@prz.edu.pl,Debica,39-200,Racz,50
+50,0
